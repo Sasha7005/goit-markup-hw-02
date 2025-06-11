@@ -1,0 +1,81 @@
+* {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.header-navigation-logo-color {
+  width: 44px;
+  height: 21px;
+  font-family: "Raleway-Bold", Helvetica;
+  font-weight: 700;
+  color: #4d5ae5;
+  font-size: 18px;
+  line-height: 21px;
+}
+.header-navigation-logo {
+  width: 71px;
+  height: 21px;
+  font-family: "Raleway-Bold", Helvetica;
+  font-weight: 700;
+  color: #2e2f42;
+  font-size: 18px;
+  line-height: 21px;
+}
+.header {
+  background-color: #e7e9fc;
+}
+body {
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+}
+.navigation-list {
+  color: ;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  color: #ffffff;
+}
+.title {
+  background-color: #2e2f42;
+}
+.footer-title {
+  background-color: #2e2f42;
+}
+.footer-title-description {
+  color: #f4f4fd;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.header-footer-logo-color {
+  width: 44px;
+  height: 21px;
+  font-family: "Raleway-Bold", Helvetica;
+  font-weight: 700;
+  color: #4d5ae5;
+  font-size: 18px;
+  line-height: 21px;
+}
+.header-footer-logo {
+  width: 71px;
+  height: 21px;
+  font-family: "Raleway-Bold", Helvetica;
+  font-weight: 700;
+  color: #f4f4fd;
+  font-size: 18px;
+  line-height: 21px;
+}
+.navigation-list {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+.address-contacts {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
