@@ -60,7 +60,14 @@ h1 {
 .page-title {
   background-color: #2e2f42;
 }
-.button {
+button {
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
+  background-color: #4d5ae5;
+}
+.btn {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
